@@ -1,0 +1,8 @@
+site_name: "test-app-react-backstage"
+site_description: "test-app-react-backstage"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

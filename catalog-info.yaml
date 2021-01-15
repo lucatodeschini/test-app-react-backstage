@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-app-react-backstage"
+  description: "test-app-react-backstage"
+  annotations:
+    github.com/project-slug: "lucatodeschini/test-app-react-backstage"
+    backstage.io/techdocs-ref: github:https://github.com/lucatodeschini/test-app-react-backstage
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "lucatodeschini"
